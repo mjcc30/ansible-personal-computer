@@ -1,7 +1,7 @@
 ---
 gui: true
 forward: true
-custom_hostname: brainfuck
+custom_hostname: mjcc-pc
 stable_debian_codename: "bullseye"
 timezone: 'Europe/Paris'
 tmp_dir: "/tmp"
@@ -9,5 +9,3 @@ architecture: "x86_64"
 latestff: false
 dns_servers:
   - "1.1.1.1"
-  - "208.67.220.220"
-  - "206.125.173.29"
